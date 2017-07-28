@@ -1,0 +1,13 @@
+---
+title: "FNER-BGRU-CRF at CAp 2017 NER challenge: Bidirectional GRU-CRF for French Named Entity Recognition in Tweets"
+collection: publications
+excerpt: ''
+date: 2017-06-30
+venue: 'In CAp, Grenoble, France'
+paperurl: 'http://cap2017.imag.fr/competition-en.html'
+citation: 'Mourad Gridach, Hatem Haddad and Hala Mulki. (2017). &quot;FNER-BGRU-CRF at CAp 2017 NER challenge: Bidirectional GRU-CRF for French Named Entity Recognition in Tweets.&quot; <i>In CAp</i>.'
+---
+
+[Download paper here](http://cap2017.imag.fr/competition-en.html)
+
+Recommended citation: Mourad Gridach, Hatem Haddad and Hala Mulki. (2017). "FNER-BGRU-CRF at CAp 2017 NER challenge: Bidirectional GRU-CRF for French Named Entity Recognition in Tweets." <i>Journal 1</i>.
