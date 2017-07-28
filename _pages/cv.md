@@ -11,30 +11,35 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* B.S. in Computer Science, Faculty of Science, Fez, 2006
+* M.S. in Computer Science, High Institute of Technology, Fez, 2008
+* Ph.D in Artificial Intelligence (Computational Linguistics), Faculty of Science, Fez, 2013
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015: Assistant Professor
+  * High Institute of Technology, Agadir
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016: Assistant Professor
+  * National School of Applied Sciences, Agadir
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: C/C++, Java (J2SE, J2EE and J2ME), Python, Matlab, Octave, Javascript/HTML/CSS, Theano, TensorFlow
+* Artificial Intelligence
+* Natural Language Processing
+* Machine Learning
+* Neural Networks
+
+Awards
+======
+* Travel Grant. Self-Organizing Conference on Machine Learning, OpenAI. San Francisco, California, USA, October 2016.
+* Runner up system in the competition about Named Entity Recognition in French Tweets at CAp, Grenoble, France, 28-30 June 2017. 
+* Travel Grant. WiNLP workshop 2017 in the co-allocation with Association of Computational Linguistics (ACL), Vancouver, Canada, 30 July to 4 August 2017.
+
+Participation
+======
+* Deep Learning for Machine Translation (DL4MT) Winter School, October 2015, Dublin, Ireland.
 
 Publications
 ======
@@ -54,6 +59,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
