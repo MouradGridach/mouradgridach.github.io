@@ -53,8 +53,8 @@ alexa_site_verification  :
 yandex_site_verification :
 
 # Social Sharing
-twitter: https://twitter.com/MouradGridach 
-  username               : https://twitter.com/MouradGridach 
+twitter:
+  username               : &twitter
 facebook:
   username               : 
   app_id                 :
@@ -103,7 +103,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "https://twitter.com/MouradGridach "
   vine             :
   weibo            :
   xing             :
