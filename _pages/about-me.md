@@ -9,8 +9,6 @@ redirect_from:
 
 ## Short Biography
 
-profile.jpg
-
 Hi! My name is Mourad Gridach and I am Professor of computer science focusing especially on Artifiical Intelligence and Applied Mathematics from Agadir, Morocco.
 
 I have completed my BSc degree in computer science  at the Faculty of Science, Fez (FSF). I did my Master of science studies at the High Institute of Techology in Fez (HITF) in computer science (honours).
