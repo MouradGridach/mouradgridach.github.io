@@ -1,13 +1,3 @@
----
-permalink: /
-title: "Recent News"
-excerpt: "Recent News"
-author_profile: true
-redirect_from: 
-  - /news/
-  - /news.html
----
-
 * October 2017 - I will attend ICALP 2017 in Fez
 * September 2017 - I will attend EMNLP 2017 in Copenhagen to present my paper "Churn Identification in Microblogs using Convolutional Neural Networks with Structured Logical Knowledge"
 * August 2017 — I attended ACL 2017 in Vancouver. 
