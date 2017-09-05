@@ -34,9 +34,10 @@ Skills
 Awards
 ======
 * EMNLP 2017 Grant which hold in Copenhagen, Denmark. I will be a studnet volunteer during the conference.
-* Travel Grant. Self-Organizing Conference on Machine Learning, OpenAI. San Francisco, California, USA, October 2016.
-* Runner up system in the competition about Named Entity Recognition in French Tweets at CAp, Grenoble, France, 28-30 June 2017. 
 * Travel Grant. WiNLP workshop 2017 in the co-allocation with Association of Computational Linguistics (ACL), Vancouver, Canada, 30 July to 4 August 2017.
+* Runner up system in the competition about Named Entity Recognition in French Tweets at CAp, Grenoble, France, 28-30 June 2017. 
+* Travel Grant. Self-Organizing Conference on Machine Learning, OpenAI. San Francisco, California, USA, October 2016.
+
 
 Participation
 ======
