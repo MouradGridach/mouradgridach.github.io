@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: true
 ---
-
+* This year I am going to teach in Master of Science at ENCG Agadir about "Managment of Information Systems". Here you can find the link to this master: http://www.encg-agadir.ac.ma/doc_pdf/2017/master-lp/MSI.pdf
 * October 2017 - I will attend ICALP 2017 in Fez
 * September 2017 - I will attend EMNLP 2017 in Copenhagen.
 * August 2017 — I attended ACL 2017 in Vancouver. 
