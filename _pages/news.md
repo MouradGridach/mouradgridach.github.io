@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 * This year I am going to teach Artficial Intelligence in B.S (Licence Professionnelle) at HIT (EST) of Agadir.
-* This year I am going to teach in Master of Science at ENCG Agadir about "Managment of Information Systems". Here you can find the link to this master: http://www.encg-agadir.ac.ma/doc_pdf/2017/master-lp/MSI.pdf.
+* This year I am going to teach in Master of Science at ENCG Agadir about "Managment of Information Systems".
 * October 2017 - I will attend ICALP 2017 in Fez
 * September 2017 - I will attend EMNLP 2017 in Copenhagen.
 * August 2017 — I attended ACL 2017 in Vancouver. 
