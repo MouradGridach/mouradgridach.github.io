@@ -9,13 +9,13 @@ redirect_from:
 
 ## Short Biography
 
-Hi! My name is Mourad Gridach and I am Professor of computer science focusing especially on Artifiical Intelligence and Applied Mathematics from Agadir, Morocco.
+Hi! My name is Mourad Gridach. I am a Professor of computer science focusing especially on Artifiical Intelligence and Applied Mathematics from Agadir, Morocco.
 
 I have completed my BSc degree in computer science  at the Faculty of Science, Fez (FSF). I did my Master of science studies at the High Institute of Techology in Fez (HITF) in computer science (honours).
 
-I did my PhD at the Faculty of Science Fez where I focused on Computational Linguistics where I developed a Morphological Analyzer with my supervisor Professor Noureddine Chenfour.
+I got my PhD at the Faculty of Science Fez where I specialized in Computational Linguistics where I developed a Morphological Analyzer with my supervisor Mr. Noureddine Chenfour.
 
-Now I’m working on computational linguistics focusing on Named Entity Recognition (NER), Sentiment Analysis (SA), and other field of NLP. I am also interested in Computer Vision. 
+Now I’m working on computational linguistics, mainly focusing on Named Entity Recognition (NER), Sentiment Analysis (SA), and other field of NLP. I am also interested in Computer Vision. 
 
 I would say that Marvin Lee Minsky from MIT was the influencial person of my whole life. I almost watched all his talks and lectures and read most of his works. Every time I don't feel good or I lost concentration, I watch one of his talks and Ouuupa I feel better. I was planning to visit him at MIT last summer, but unfortunately He died early that year in January :( 2016. 
 
