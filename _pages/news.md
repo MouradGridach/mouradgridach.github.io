@@ -5,6 +5,8 @@ permalink: /news/
 author_profile: true
 ---
 
+* December 2017 - I will attend NIPS 2017 at Long Beach, CA.
+* 30th November & 1 December 2017: I am going to attend the SOCML workshop organized by Ian Goodfellow at Sunnyvale (Google).
 * This year I am going to teach Artficial Intelligence in B.S (Licence Professionnelle) at HIT (EST) of Agadir.
 * This year I am going to teach in Master of Science at ENCG Agadir about "Managment of Information Systems".
 * October 2017 - I will attend ICALP 2017 in Fez
