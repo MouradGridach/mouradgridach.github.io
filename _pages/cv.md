@@ -33,7 +33,9 @@ Skills
 
 Awards
 ======
-* Travel Grant. Self-Organizing Conference on Machine Learning (SOCML), Sunnyvale, CA, USA, Novemver 2017.
+* Titan Xp GPU from NVidia, October, 2017.
+* Travel Grant. Black in AI Workshop co-located with NIPS, Long Beach, USA, December 2017.
+* Travel Grant. Self-Organizing Conference on Machine Learning (SOCML), Sunnyvale, CA, USA, November 2017.
 * EMNLP 2017 Grant which hold in Copenhagen, Denmark. I will be a student volunteer during the conference.
 * Travel Grant. WiNLP workshop 2017 in the co-allocation with Association of Computational Linguistics (ACL), Vancouver, Canada, 30 July to 4 August 2017.
 * Runner up system in the competition about Named Entity Recognition in French Tweets at CAp, Grenoble, France, 28-30 June 2017. 
