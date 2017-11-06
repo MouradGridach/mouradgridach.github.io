@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-* Happy to win a Titan XP (GPU) from NVIDIA which will help me to run more powerful ML models.
+* Happy to win a Titan Xp (GPU) from NVIDIA which will help me to run more powerful ML models.
 * December 2017 - I will attend NIPS 2017 at Long Beach, CA.
 * 30th November & 1 December 2017: I am going to attend the SOCML workshop organized by Ian Goodfellow at Sunnyvale (Google).
 * This year I am going to teach Artficial Intelligence in B.S (Licence Professionnelle) at HIT (EST) of Agadir.
