@@ -31,6 +31,11 @@ Skills
 * Machine Learning
 * Neural Networks
 
+Program Committee and Reviewer Member of Conferences
+======
+* 56th Annual Meeting of the Association for Computational Linguistics, 15-20 July 2018   Melbourne
+* Women and Underrespresented Minorities in Natural Language Processing (WiNLP).
+
 Awards
 ======
 * Titan Xp GPU from NVidia, October, 2017.
