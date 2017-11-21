@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* I will serve on the Program Committee for The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018), for the Machine Learning area which will be in Melbourne, Australia.
 * Friday November, 17th 2017: I will be speaking at the first International Astronomy Festival in South Morocco about Artificial Intelligence for Astronomy. http://festival.spacenauts.org/ 
 * Happy to win a Titan Xp (GPU) from NVIDIA which will help me to run more powerful ML models.
 * December 2017 - I will attend NIPS 2017 at Long Beach, CA.
