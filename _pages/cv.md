@@ -34,7 +34,7 @@ Skills
 Program Committee and Reviewer Member of Conferences
 ======
 * 56th Annual Meeting of the Association for Computational Linguistics (ACL), Melbourne, Australia, 15-20 July 2018.
-* Women and Underrespresented Minorities in Natural Language Processing (WiNLP).
+* Advisory Board at WiNLP (Widening Natural Language Processing) 2018.
 
 Awards
 ======
