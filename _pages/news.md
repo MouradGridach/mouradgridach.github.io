@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* I will start a new position on 15th September 2018 as a Postdoc with Professor Larry Hunter at the University of Colorado.
 * I will serve on the Advisory Board at WiNLP (Widening Natural Language Processing) 2018, New Orleans, USA.
 * I will serve on the Program Committee for The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018), for the Machine Learning area which will be in Melbourne, Australia.
 * Friday November, 17th 2017: I will be speaking at the first International Astronomy Festival in South Morocco about Artificial Intelligence for Astronomy. http://festival.spacenauts.org/ 
