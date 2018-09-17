@@ -9,7 +9,7 @@ redirect_from:
 
 ## Short Biography
 
-Hi! My name is Mourad Gridach. I am the CEO and Founder of DeepAfricAI. Also, I am a Professor of computer science focusing especially on Artifiical Intelligence and Applied Mathematics from Agadir, Morocco.
+Hi! My name is Mourad Gridach. I am a Postdoctoral Research at the University of Colorado working with Professor Larry Hunter. Also, I am the CEO and Founder of DeepAfricAI. Also, I am a Professor of computer science focusing especially on Artifiical Intelligence and Applied Mathematics from Agadir, Morocco.
 
 I have completed my BSc degree in computer science  at the Faculty of Science, Fez (FSF). I did my Master of science studies at the High Institute of Techology in Fez (HITF) in computer science (honours).
 
