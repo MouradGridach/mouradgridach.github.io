@@ -5,6 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
+* I will be speaking at IndabaX Tunisia (https://www.indabaxtunisia.com) on April 13th 2019 at Tunis.
 * I will start a new position on 15th September 2018 as a Postdoc with Professor Larry Hunter at the University of Colorado.
 * I will serve on the Advisory Board at WiNLP (Widening Natural Language Processing) 2018, New Orleans, USA.
 * I will serve on the Program Committee for The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018), for the Machine Learning area which will be in Melbourne, Australia.
