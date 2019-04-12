@@ -22,7 +22,10 @@ Work experience
 
 * 2016: Assistant Professor
   * National School of Applied Sciences, Agadir
-  
+
+* 2018: Postdoctoral Researcher
+  * University of Colorado Anschutz Medical Campus, USA
+
 Skills
 ======
 * Programming Languages: C/C++, Java (J2SE, J2EE and J2ME), Python, Matlab, Octave, Javascript/HTML/CSS, Theano, TensorFlow
@@ -33,13 +36,13 @@ Skills
 
 Program Committee and Reviewer Member of Conferences
 ======
-* 56th Annual Meeting of the Association for Computational Linguistics (ACL), Melbourne, Australia, 15-20 July 2018.
+* Reviwer for BMC Bioinformatics Journal - 2019.
+* Reviewer at ACL, Melbourne, Australia, 15-20 July 2018.
 * Advisory Board at WiNLP (Widening Natural Language Processing).
 
 Awards
 ======
 * Titan Xp GPU from NVidia, October, 2017.
-* Travel Grant. Black in AI Workshop co-located with NIPS, Long Beach, USA, December 2017.
 * Travel Grant. Self-Organizing Conference on Machine Learning (SOCML), Sunnyvale, CA, USA, November 2017.
 * EMNLP 2017 Grant which hold in Copenhagen, Denmark. I will be a student volunteer during the conference.
 * Travel Grant. WiNLP workshop 2017 in the co-allocation with Association of Computational Linguistics (ACL), Vancouver, Canada, 30 July to 4 August 2017.
