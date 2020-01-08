@@ -15,7 +15,6 @@ Education
 * M.S. in Computer Science, High Institute of Technology, Fez, 2008
 * Ph.D in Artificial Intelligence (Computational Linguistics), Faculty of Science, Fez, 2013
 * Postdoctoral Research - University of Colorado Anschutz Medical Campus, 2018
-* Resarch Fellow - Department of Computer Science, Oxford University, 2019
 
 Work experience
 ======
