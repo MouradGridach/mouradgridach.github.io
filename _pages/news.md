@@ -5,7 +5,6 @@ permalink: /news/
 author_profile: true
 ---
 
-* I will start a new job on 1st July, 2019 as research fellow at the Department of CS at Oxford University.
 * I will be speaking at IndabaX Tunisia (https://www.indabaxtunisia.com) on April 13th 2019 at Tunis.
 * I will start a new position on 15th September 2018 as a Postdoc with Professor Larry Hunter at the University of Colorado.
 * I will serve on the Advisory Board at WiNLP (Widening Natural Language Processing) 2018, New Orleans, USA.
