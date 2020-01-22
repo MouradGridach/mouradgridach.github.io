@@ -8,7 +8,7 @@ author_profile: true
 * I will be giving a talk at 1337 Khouribga, Morocco (https://1337.ma/) on 20th January 2020.
 * I will be organizing a workshop at 1337 Benguerir, Morocco on 17th January 2020.
 * I will be giving a talk at ENSA Agadir, Morocco on the 5th December 2019.
-* I will be giving a lecture to the Moroccan youth at the Moonshot Festival in Casablanca on 16th November 2019. The workshop is organized by the US Embassy in Rabat with partnership with many NGOs in Morocco.
+* I will be giving a lecture to the Moroccan youth at the Moonshot Festival in Casablanca on 16th November 2019. The workshop is organized by the US Embassy in Rabat in partnership with many NGOs in Morocco.
 * I will be speaking at IndabaX Tunisia (https://www.indabaxtunisia.com) on April 13th 2019 at Tunis.
 * I will start a new position on 15th September 2018 as a Postdoc with Professor Larry Hunter at the University of Colorado.
 * I will serve on the Advisory Board at WiNLP (Widening Natural Language Processing) 2018, New Orleans, USA.
