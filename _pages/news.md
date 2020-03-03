@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-* I will be giving a couple of talks and participating in panels. Here are the dates:
+* I will be giving a couple of talks and participating in panels in the next two months. Here are the details:
   1. On 14 March 2020, I will give a talk about recent adances in AI and ML at ENSAM Meknes, Morocco
   2. On 28th March 2020, I will participate at a panel discussion organized by EmiMecatronic club at Ecole Mohammedia D'Ingenieurs (EMI), Rabat, Morocco about Artificial Intelligence/Robotics and Cars
   3. on 31th March, I will give a talk about my recent work on AI and ML in a event organized jointly between 1337 and ENSA Khouribga.
