@@ -5,12 +5,16 @@ permalink: /news/
 author_profile: true
 ---
 
+* ------------------------------------------------------------------------------ 2019 ------------------------------------------------------------------
+* Paper accepted at the IEEE International Symposium on Biomedical Imaging (ISBI), April, 2021 - Title : "DOPNet: Densely Oriented Pooling Network for Medical Image Segmentation" in collaboration with Dr. Irina Voiculescu from the University of Oxford
+* ------------------------------------------------------------------------------ 2020 ------------------------------------------------------------------
 * I will be giving a couple of talks and participating in panels in the next two months. Here are the details:
   1. On 14 March 2020, I will give a talk about recent adances in AI and ML at ENSAM Meknes, Morocco
   2. On 28th March 2020, I will participate at a panel discussion organized by EmiMecatronic club at Ecole Mohammedia D'Ingenieurs (EMI), Rabat, Morocco about Artificial Intelligence/Robotics and Cars
   3. on 31th March, I will give a talk about my recent work on AI and ML in a event organized jointly between 1337 and ENSA Khouribga.
 * I will be giving a talk at 1337 Khouribga, Morocco (https://1337.ma/) on 20th January 2020.
 * I will be organizing a workshop at 1337 Benguerir, Morocco on 17th January 2020.
+* ------------------------------------------------------------------------------ 2019 ------------------------------------------------------------------
 * I will be giving a talk at ENSA Agadir, Morocco on the 5th December 2019.
 * I will be giving a lecture to the Moroccan youth at the Moonshot Festival in Casablanca on 16th November 2019. The workshop is organized by the US Embassy Rabat in partnership with many NGOs in Morocco.
 * I will be speaking at IndabaX Tunisia (https://www.indabaxtunisia.com) on April 13th 2019 at Tunis.
