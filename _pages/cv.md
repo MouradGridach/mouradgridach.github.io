@@ -18,19 +18,25 @@ Education
 
 Work experience
 ======
-* 2015: Assistant Professor
-  * High Institute of Technology, Agadir
 
-* 2016: Assistant Professor
-  * National School of Applied Sciences, Agadir
+* 2019: Visiting Researcher
+  * University of Oxford, United Kingdom
+
 
 * 2018: Postdoctoral Researcher
   * University of Colorado Anschutz Medical Campus, USA
 
+* 2016: Assistant Professor
+  * National School of Applied Sciences, Agadir
+
+* 2015: Assistant Professor
+  * High Institute of Technology, Agadir
+
 Skills
 ======
-* Programming Languages: C/C++, Java (J2SE, J2EE and J2ME), Python, Matlab, Octave, Javascript/HTML/CSS, Theano, TensorFlow
+* Programming Languages: C/C++, Java (J2SE, J2EE and J2ME), Python, Matlab, Octave, Javascript/HTML/CSS, Theano, TensorFlow, PyTorch
 * Artificial Intelligence
+* Medical Imaging
 * Natural Language Processing
 * Machine Learning
 * Neural Networks
