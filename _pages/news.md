@@ -5,7 +5,7 @@ permalink: /news/
 author_profile: true
 ---
 
-* ------------------------------------------------------------------------------ 2019 ------------------------------------------------------------------
+* ------------------------------------------------------------------------------ 2021 ------------------------------------------------------------------
 * Paper accepted at the IEEE International Symposium on Biomedical Imaging (ISBI), April, 2021 - Title : "DOPNet: Densely Oriented Pooling Network for Medical Image Segmentation" in collaboration with Dr. Irina Voiculescu from the University of Oxford
 * ------------------------------------------------------------------------------ 2020 ------------------------------------------------------------------
 * I will be giving a couple of talks and participating in panels in the next two months. Here are the details:
@@ -19,8 +19,10 @@ author_profile: true
 * I will be giving a lecture to the Moroccan youth at the Moonshot Festival in Casablanca on 16th November 2019. The workshop is organized by the US Embassy Rabat in partnership with many NGOs in Morocco.
 * I will be speaking at IndabaX Tunisia (https://www.indabaxtunisia.com) on April 13th 2019 at Tunis.
 * I will start a new position on 15th September 2018 as a Postdoc with Professor Larry Hunter at the University of Colorado.
+* ------------------------------------------------------------------------------ 2018 ------------------------------------------------------------------
 * I will serve on the Advisory Board at WiNLP (Widening Natural Language Processing) 2018, New Orleans, USA.
 * I will serve on the Program Committee for The 56th Annual Meeting of the Association for Computational Linguistics (ACL 2018), for the Machine Learning area which will be in Melbourne, Australia.
+* ------------------------------------------------------------------------------ 2017 ------------------------------------------------------------------
 * Friday November, 17th 2017: I will be speaking at the first International Astronomy Festival in South Morocco about Artificial Intelligence for Astronomy. http://festival.spacenauts.org/ 
 * Happy to win a Titan Xp (GPU) from NVIDIA which will help me to run more powerful ML models.
 * December 2017 - I will attend NIPS 2017 at Long Beach, CA.
@@ -33,9 +35,11 @@ author_profile: true
 * June 2017 — I attended CAp 2017 in Grenoble. 
 * April 2017 — I attended CICLing 2017 in Budapest.
 * January 2017 — I gave a talk at Faculty of Science - Agadir about Recent Advances in Deep Nets.
+* ------------------------------------------------------------------------------ 2016 ------------------------------------------------------------------
 * December 2016 — I attended COLING 2016 in Osaka. 
 * October 2016 — I attended a conference about Machine Learning organized by Ian Goodfellow at OpenAI in San Francisco.
 * April 2016 — I attended CICLing 2016 in Konya.
+* ------------------------------------------------------------------------------ 2015 ------------------------------------------------------------------
 * October 2015 — I attended a winter school about Neural Machine Translation in Dublin.
 
 
