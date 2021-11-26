@@ -6,6 +6,7 @@ author_profile: true
 ---
 
 * ------------------------------------------------------------------------------ 2021 ------------------------------------------------------------------
+* I will join the department of Engineering Science at the University of Oxford to work with Professor Alison Noble on Multi Modal Deep Learning for Biomedical Image Analysis. 
 * Paper accepted at the Neural Networks Journal - "PyDiNet: Pyramid Dilated Network for medical image segmentation". Impact factor: 7.197.
 * Paper accepted at the Medical Image Analysis Journal: "Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy". Impact factor - 11.148
 * Paper accepted at the IEEE International Symposium on Biomedical Imaging (ISBI), April, 2021 - Title : "DOPNet: Densely Oriented Pooling Network for Medical Image Segmentation" in collaboration with Dr. Irina Voiculescu from the University of Oxford
