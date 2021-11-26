@@ -15,9 +15,13 @@ Education
 * M.S. in Computer Science, High Institute of Technology, Fez, 2008
 * Ph.D in Artificial Intelligence (Computational Linguistics), Faculty of Science, Fez, 2013
 * Postdoctoral Research - University of Colorado Anschutz Medical Campus, 2018
+* Postdoctoral Research Associate - Department of Engineering Science, University of Oxford, 2021
 
 Work experience
 ======
+
+* 2021: Postdoctoral Research Associate
+  * University of Oxford, United Kingdom 
 
 * 2019: Visiting Researcher
   * University of Oxford, United Kingdom
