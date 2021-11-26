@@ -8,14 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an assistant professor of Computer Science at Ibn Zohr University, Agadir, Morocco. Previosuly, I was an Africa-Oxford Visiting Fellow at Oxford University working with Doctor Irina Voiculescu on biomedical image segmentation. Also, I was a Postdoctoral Researcher at the University of Colorado working with Professor Larry Hunter. I am the CEO and Founder of DeepAfricAI. My research interests include Artificial Intelligence, Natural Language Processing and Computer Vision.
+I am a Postdoctoral Researcher at the Oxford Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford. Previosuly, I was an Africa-Oxford Visiting Fellow at Oxford University working with Doctor Irina Voiculescu on biomedical image segmentation. Also, I was a Postdoctoral Researcher at the University of Colorado working with Professor Larry Hunter. My research interests include Artificial Intelligence, Natural Language Processing and Computer Vision.
 
-My main area of research is Natural Language Processing (NLP) focusing on Named Entity Recognition (NER) for classical texts as well as biomedical texts, Sentiment Analysis (SA), and other field of NLP. I am focusing on the development of deep learning techniques for natural language tasks such as Named Entity Recongition and Sentiment Analysis. Furthermore, I tried to see the effect of word representations on such applications.  
-
-More recently, I started to focus on Computer Vision : as a start, we run some final projects with my undergraduate and graduate students. We highlighted some basic and classical applications in computer vision:
-
-* Recognizing digits through MNIST dataset using Convolutional Neural Networks.
-
-* Recognizing alphabets using Convolutional Neural Networks.
-
-* Classifying images using CIFAR-10 dataset.
+My main area of research is Medical Imaging specifically Medical Image Segmentation and Multi Modal Deep Learning for Biomedical Image Analysis. Furthermore, I worked on Natural Language Processing (NLP) focusing on Named Entity Recognition (NER) for classical texts as well as biomedical texts, Sentiment Analysis (SA), and other field of NLP.
