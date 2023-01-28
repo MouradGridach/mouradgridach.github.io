@@ -5,6 +5,9 @@ permalink: /news/
 author_profile: true
 ---
 
+* ------------------------------------------------------------------------------ 2023 ------------------------------------------------------------------
+* Our paper "D2ANet: Densely Attentional-Aware Network for First Trimester Ultrasound CRL and NT Segmentation" is accepted at IEEE International Symposium on Biomedical Imaging (ISBI), 2023.
+
 * ------------------------------------------------------------------------------ 2021 ------------------------------------------------------------------
 * I will join the department of Engineering Science at the University of Oxford to work with Professor Alison Noble on Multi Modal Deep Learning for Biomedical Image Analysis. 
 * Paper accepted at the Neural Networks Journal - "PyDiNet: Pyramid Dilated Network for medical image segmentation". Impact factor: 7.197.
