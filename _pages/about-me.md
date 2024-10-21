@@ -7,9 +7,11 @@ redirect_from:
   - /about-me.html
 ---
 
-## Short Biography
+## About
 
-Hi! My name is Mourad Gridach. I am a Postdoctoral Researcher at the Oxford Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford. Previously, I was visiting fellow at the Department of Computer Science at the University of Oxford working with Professor Irina Voiculescu on biomedical image segmentation. I was a Postdoctoral Researcher at the University of Colorado working with Professor Larry Hunter. I am a Professor of computer science focusing especially on Artifiical Intelligence and Applied Mathematics from Agadir, Morocco.
+Hi! My name is Mourad Gridach. I am a Senior AI Scientist at IQVIA. I am a member of the Advanced NLP team led by Jay Nanavati. The team is part of of the Applied AI Science team based in Cambridge, UK. Previoulsy, I was a Senior Postdoctoral Researcher at the Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford working with Professor Alison Julia Noble. I was a member of the PULSE (Perception Ultrasound by Learning Sonographer Experience) team. PULSE is an ambitious, innovative, interdisciplinary research project exploring the use of artificial intelligence-based technologies to reduce the need for highly trained ultrasound operators. We apply the latest ideas from machine learning and computer vision to build, from real-world ultrasound scanning videos, eye-tracking and probe movement data, computational models of visual search and navigation.
+
+Furthermore, I was visiting fellow at the Department of Computer Science at the University of Oxford working with Professor Irina Voiculescu on biomedical image segmentation. During my fellowship, I developed innovative Machine Learning algorithms for medical image segmentation. The team focused on refining current methods for MRI segmentation, particularly tackling the challenge of identifying the femur bone within hip MRI scans. Also, I was a Postdoctoral Researcher at the University of Colorado working with Professor Larry Hunter. I am a Professor of computer science focusing especially on Artifiical Intelligence and Applied Mathematics from Agadir, Morocco.
 
 I have completed my BSc degree in computer science  at the Faculty of Science, Fez (FSF). I did my Master of science studies at the High Institute of Techology in Fez (HITF) in computer science (honours).
 
