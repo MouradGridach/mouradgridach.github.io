@@ -7,23 +7,10 @@ redirect_from:
   - /about-me.html
 ---
 
-## About
-
-Hi! My name is Mourad Gridach. I am a Senior AI Scientist at IQVIA. I am a member of the Advanced NLP team led by Jay Nanavati. The team is part of of the Applied AI Science team based in Cambridge, UK. Previoulsy, I was a Senior Postdoctoral Researcher at the Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford working with Professor Alison Julia Noble. I was a member of the PULSE (Perception Ultrasound by Learning Sonographer Experience) team. PULSE is an ambitious, innovative, interdisciplinary research project exploring the use of artificial intelligence-based technologies to reduce the need for highly trained ultrasound operators. We apply the latest ideas from machine learning and computer vision to build, from real-world ultrasound scanning videos, eye-tracking and probe movement data, computational models of visual search and navigation.
-
-Furthermore, I was visiting fellow at the Department of Computer Science at the University of Oxford working with Professor Irina Voiculescu on biomedical image segmentation. During my fellowship, I developed innovative Machine Learning algorithms for medical image segmentation. The team focused on refining current methods for MRI segmentation, particularly tackling the challenge of identifying the femur bone within hip MRI scans. Also, I was a Postdoctoral Researcher at the University of Colorado working with Professor Larry Hunter. I am a Professor of computer science focusing especially on Artifiical Intelligence and Applied Mathematics from Agadir, Morocco.
-
-I have completed my BSc degree in computer science  at the Faculty of Science, Fez (FSF). I did my Master of science studies at the High Institute of Techology in Fez (HITF) in computer science (honours).
-
-I got my PhD at the Faculty of Science Fez where I specialized in Computational Linguistics where I developed a Morphological Analyzer with my supervisor Mr. Noureddine Chenfour.
-
-Now I’m working on computational linguistics, mainly focusing on Named Entity Recognition (NER), Sentiment Analysis (SA), and other field of NLP. I am also interested in Computer Vision. 
-
-I would say that Marvin Lee Minsky from MIT was the influencial person of my whole life. I almost watched all his talks and lectures and read most of his works. Every time I don't feel good or I lost concentration, I watch one of his talks and Ouuupa I feel better. I was planning to visit him at MIT last summer, but unfortunately He died early that year in January :( 2016. 
-
 ## Hobbies
 
-* Kickboxing, Full conatact, K1, Body building, Volley-ball.
+
+* Kickboxing, Weight Lifting, Full conatact, K1, Body building, Volley-ball.
 * Reading books and novels. 
 * Traveling. 
 * Watching movies. Here is a list of my favorite movies: 
