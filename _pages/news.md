@@ -9,18 +9,12 @@ author_profile: true
 * ------------------------------------------------------------------------------ 2024 ------------------------------------------------------------------
 ### September
 
-* I will join IQVIA as a Senior AI Scientist. I will be working with the Advanced NLP team led by Jay Nanavati and I will be based in Cambridge, UK.
-
-
+* I will be joining IQVIA as a Senior AI Scientist, working with the Advanced NLP team led by Jay Nanavati, based in Cambridge, UK.
   ### May
 * Our paper "Dual Representation Learning From Fetal Ultrasound Video and Sonographer Audio" accepted at IEEE International Symposium on Biomedical Imaging (ISBI), 2024.
-
-
 * ------------------------------------------------------------------------------ 2023 ------------------------------------------------------------------
 * Our paper "D2ANet: Densely Attentional-Aware Network for First Trimester Ultrasound CRL and NT Segmentation" is accepted at IEEE International Symposium on Biomedical Imaging (ISBI), 2023.
-
-
-* ------------------------------------------------------------------------------ 2023 ------------------------------------------------------------------
+* ------------------------------------------------------------------------------ 2022 ------------------------------------------------------------------
 * Our paper "Self-Knowledge Distillation for First Trimester Ultrasound Saliency Prediction" accepted at International Workshop on Advances in Simplifying Medical Ultrasound (ASMUS), MICCAI, 2022.
 
 * ------------------------------------------------------------------------------ 2021 ------------------------------------------------------------------
