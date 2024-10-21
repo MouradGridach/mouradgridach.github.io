@@ -11,16 +11,18 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Faculty of Science, Fez, 2006
-* M.S. in Computer Science, High Institute of Technology, Fez, 2008
-* Ph.D in Artificial Intelligence (Computational Linguistics), Faculty of Science, Fez, 2013
-* Postdoctoral Research - University of Colorado Anschutz Medical Campus, 2018
-* Postdoctoral Research Associate - Department of Engineering Science, University of Oxford, 2021
+* B.S. in Computer Science, Faculty of Science, Fez.
+* M.S. in Computer Science, High Institute of Technology, Fez.
+* Ph.D in Artificial Intelligence (Computational Linguistics), Faculty of Science, Fez.
 
 Work experience
 ======
 
-* 2021: Postdoctoral Research Associate
+
+* 2024: Senior AI Scientist
+  * IQVIA, Cambridge, United Kingdom 
+
+* 2021: Senior Postdoctoral Researcher
   * University of Oxford, United Kingdom 
 
 * 2019: Visiting Researcher
@@ -38,12 +40,12 @@ Work experience
 
 Skills
 ======
-* Programming Languages: C/C++, Java (J2SE, J2EE and J2ME), Python, Matlab, Octave, Javascript/HTML/CSS, Theano, TensorFlow, PyTorch
-* Artificial Intelligence
+* Large Language Models (LLMs)
 * Medical Imaging
 * Natural Language Processing
 * Machine Learning
 * Neural Networks
+* Programming Languages: C/C++, Java (J2SE, J2EE and J2ME), Python, Matlab, Octave, Javascript/HTML/CSS, Theano, TensorFlow, PyTorch
 
 Program Committee and Reviewer Member of Conferences
 ======
