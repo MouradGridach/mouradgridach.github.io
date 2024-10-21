@@ -1,13 +1,11 @@
 ---
 permalink: /about-me/
-title: "About me"
+title: "Hobbies"
 author_profile: true
 redirect_from: 
   - /md/
   - /about-me.html
 ---
-
-## Hobbies
 
 
 * Kickboxing, Weight Lifting, Full conatact, K1, Body building, Volley-ball.
