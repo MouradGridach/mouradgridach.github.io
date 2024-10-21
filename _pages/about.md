@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "A short biography"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-## About
 
 Hi! My name is Mourad Gridach, and I am a Senior AI Scientist at IQVIA. I am part of the Advanced NLP team led by Jay Nanavati, within the Applied AI Science group based in Cambridge, UK. Previously, I worked as a Senior Postdoctoral Researcher at the Institute of Biomedical Engineering, Department of Engineering Science, University of Oxford, under the supervision of Professor Alison Julia Noble. During this time, I was a member of the PULSE (Perception Ultrasound by Learning Sonographer Experience) team, an ambitious interdisciplinary research project. PULSE explores the use of artificial intelligence-based technologies to reduce the need for highly trained ultrasound operators by applying machine learning and computer vision techniques to real-world ultrasound videos, eye-tracking, and probe movement data.
 
