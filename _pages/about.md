@@ -14,6 +14,4 @@ Additionally, I was a visiting fellow at the Department of Computer Science at t
 
 I hold a BSc in Computer Science from the Faculty of Science in Fez (FSF), and I completed my MSc in Computer Science (with honors) at the High Institute of Technology in Fez (HITF). I earned my PhD from the Faculty of Science in Fez, specializing in Computational Linguistics under the supervision of Professor Noureddine Chenfour. My PhD work involved developing a Morphological Analyzer.
 
-Currently, my research focuses on computational linguistics, including Named Entity Recognition (NER), Sentiment Analysis (SA), and other NLP tasks, as well as my growing interest in computer vision.
-
 I am deeply inspired by Marvin Lee Minsky from MIT, whose work has been a guiding influence in my life. His talks and writings have had a profound impact on me. Whenever I feel unfocused or demotivated, watching his lectures reinvigorates me. I had hoped to visit him at MIT, but unfortunately, he passed away in January 2016, before I had the chance.
